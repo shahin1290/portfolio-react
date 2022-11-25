@@ -4,7 +4,7 @@ import HeroImg from "../../images/hero.svg";
 const Hero = () => {
   return (
     <section class="section-hero">
-      <div className="hero">
+      <div className="hero container">
         <div class="hero-text-box">
           <h1 class="heading-primary">Learn to code with a new digital life</h1>
           <p class="hero-description">
